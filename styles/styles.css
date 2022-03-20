@@ -1,0 +1,18 @@
+* {
+    color: black;
+    background-color: beige;
+    font-family: Helvetica, sans-serif;
+    text-align:left
+}
+
+img {
+    width: 300px;
+    height:auto
+}
+
+.mcdonalds {
+    color: yellow;
+    background-color: red;
+    font-size: 18px;
+    font-weight: 700px;
+}
